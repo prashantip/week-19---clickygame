@@ -1,0 +1,26 @@
+/*JUMBOTRON*/
+.jumbotron {
+	background-image: url("https://previews.123rf.com/images/andose24/andose241706/andose24170600012/84407582-studio-background.jpg");
+    background-repeat: no-repeat;
+	background-position: center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	margin-bottom: 0px;
+    text-align: center;
+}
+
+.jumbotron h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 65px;
+	text-transform: uppercase;
+	font-weight: 900;
+	color: #4e7792;
+}
+
+.jumbotron p {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+	font-weight: 500;
+	text-transform: uppercase;
+}
+
